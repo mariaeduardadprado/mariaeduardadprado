@@ -1,8 +1,8 @@
 # Hello world!! 🌍
 ## I'm Maria 🎀💐
 - ✨I'm software engineering student.
-- 👀 I’m interested in front-end development and ux design.
-- 🌱 I’m currently learning javascript and react js.
+- 👀 I’m interested in full-stack development and data analysis.
+- 🌱 I’m currently learning python and agile methodologies.
 - 💞️ I’m looking to collaborate on projects that improve my portfolio
 ### entre em contato comigo ⤵️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-prado-a11852215/)
